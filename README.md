@@ -1,4 +1,5 @@
-![HeaderJCBSLInkedin]()
+![HeaderJCBSLInkedin](HeaderJCBSLInkedin.png)
+
 
 <h1>👋 Hi I'm Jen,</h1>
 
@@ -36,7 +37,7 @@ To learn more about my management experience and expertise, connect with me on <
 <h3>👩‍💻 &nbsp;Github Stats </h3>
 <div align="center">
 
-  ![JCBS GitHub stats](https://github-readme-stats.vercel.app/api?username=JCBalabuch&show_icons=true&theme=dark&count_private=true)
+![JCBS GitHub stats](https://github-readme-stats.vercel.app/api?username=JCBalabuch&show_icons=true&theme=dark&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCBalabuch&layout=compact&theme=dark)](https://github.com/JCBalabuch/github-readme-stats)
   
