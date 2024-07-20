@@ -1,4 +1,4 @@
-![HeaderJCBSLInkedin](https://github.com/JCBalabuch/JCBalabuch/blob/main/HeaderJCBSLInkedin.png)
+![HeaderJCBSLInkedin](https://github.com/JCBalabuch/JCBalabuch/blob/main/HeaderJCBSLinkedin.jpeg)
 
 
 <h1>👋 Hi I'm Jen,</h1>
