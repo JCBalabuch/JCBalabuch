@@ -1,4 +1,4 @@
-![HeaderJCBSLInkedin](HeaderJCBSLInkedin.png)
+![HeaderJCBSLInkedin](https://github.com/JCBalabuch/JCBalabuch/blob/main/HeaderJCBSLInkedin.png)
 
 
 <h1>👋 Hi I'm Jen,</h1>
